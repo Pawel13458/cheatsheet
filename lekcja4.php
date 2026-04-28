@@ -12,5 +12,5 @@ while ($a != $b) {
     }
 }
 
-echo "Największy wspólny dzielnik (NWD) wynosi: " . $a;
+echo "Największy wspólny dzielnik NWD wynosi: " . $a;
 ?>
